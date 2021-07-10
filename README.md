@@ -17,10 +17,14 @@ The purpose of this analysis was to gain a better understanding of the impact of
 
 - Math and reading scores by grade
   
-  
+  Replacing these scores does not impact the scores by grade other than changing the 9th grade scores for Thomas High School. 
 
 - Scores by school spending
+  There seem to be no changes in the Scores by school spending data.
+  All of the data points are identical in both DataFrames.
 
 - Scores by school size
+  I don't see any changes in the numbers for scores by school size either. The DataFrames have the same numbers again. 
 
 - Scores by school type
+  Again I see no change in the data for these two DataFrames.
